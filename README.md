@@ -1,5 +1,9 @@
 # 💫 About Me:
-MCA student 
+Hi, I'm Manoj Kumar, an MCA student interested in Python development and backend programming.
+
+I've worked on Python projects involving APIs and MySQL databases, including a weather application and an expense tracker. I'm currently working on my MCA major project, IncidentIQ.
+
+I'm revising my programming fundamentals and improving my skills by building projects and practising coding.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__manoj__17_) [![LinkedIn](https://www.linkedin.com/in/manoj-kumar-36857b319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manojkumarmysore3@gmail.com) 
