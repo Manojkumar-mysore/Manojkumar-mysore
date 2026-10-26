@@ -8,9 +8,6 @@ I'm revising my programming fundamentals and improving my skills by building pro
 ## connect with me 
 - LinkedIn: "Manoj Kumar" (https://www.linkedin.com/in/manoj-kumar-36857b319)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__manoj__17_) [![LinkedIn](https://www.linkedin.com/in/manoj-kumar-36857b319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manojkumarmysore3@gmail.com) 
-
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 # 📊 GitHub Stats:
