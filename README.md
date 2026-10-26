@@ -5,8 +5,10 @@ I've worked on Python projects involving APIs and MySQL databases, including a w
 
 I'm revising my programming fundamentals and improving my skills by building projects and practising coding.
 
-## connect with me 
+##🌎 connect with me 
 - **LinkedIn:** [Manoj Kumar](https://www.linkedin.com/in/manoj-kumar-36857b319)
+- **Email:** [manojkumarmysore3@gmail.com](mailto:manojkumarmysore3@gmail.com)
+- **GitHub:** [Manojkumar-mysore](https://github.com/Manojkumar-mysore)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
