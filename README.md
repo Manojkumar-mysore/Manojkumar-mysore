@@ -5,7 +5,7 @@ I've worked on Python projects involving APIs and MySQL databases, including a w
 
 I'm revising my programming fundamentals and improving my skills by building projects and practising coding.
 
-##🌎 connect with me 
+## 🌎 connect with me 
 - **LinkedIn:** [Manoj Kumar](https://www.linkedin.com/in/manoj-kumar-36857b319)
 - **Email:** [manojkumarmysore3@gmail.com](mailto:manojkumarmysore3@gmail.com)
 - **GitHub:** [Manojkumar-mysore](https://github.com/Manojkumar-mysore)
